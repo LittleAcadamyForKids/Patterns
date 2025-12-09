@@ -3,7 +3,7 @@ level,cell1_shape,cell1_size,cell1_color,cell2_shape,cell2_size,cell2_color,cell
 1,square,big,none,heart,small,none,heart,big,none,heart,small,none,square,small,none,triangle,big,none,square,big,none,square,small,none,2,easy
 1,triangle,big,none,star,big,none,triangle,small,none,circle,small,none,star,small,none,star,big,none,triangle,small,none,star,small,none,2,easy
 1,heart,big,none,heart,small,none,circle,big,none,square,small,none,circle,small,none,triangle,small,none,heart,small,none,circle,small,none,2,easy
-1,star,big,none,square,big,none,star,small,none,square,big,none,square,small,none,triangle,small,none,square,big,none,square,small,none,2,easy
+1,star,big,none,square,big,none,star,small,none,square,big,none,square,small,none,triangle,small,none,star,big,none,square,small,none,2,easy
 1,circle,small,none,triangle,big,none,circle,small,none,triangle,big,none,square,big,none,heart,big,none,star,big,none,triangle,big,none,1,easy
 1,square,small,none,heart,big,none,square,big,none,heart,small,none,circle,big,none,square,big,none,star,big,none,heart,small,none,1,easy
 1,triangle,small,none,star,small,none,triangle,big,none,star,big,none,circle,big,none,square,big,none,heart,big,none,star,big,none,1,easy
