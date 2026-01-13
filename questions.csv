@@ -87,5 +87,5 @@ level,cell1_shape,cell1_size,cell1_color,cell2_shape,cell2_size,cell2_color,cell
 3,heart,small,blue,star,small,red,heart,big,blue,square,big,red,circle,big,blue,star,big,red,triangle,big,blue,star,big,red,3,medium
 3,triangle,small,red,square,small,blue,triangle,big,red,circle,big,blue,heart,big,red,square,big,blue,star,big,red,square,big,blue,3,medium
 3,circle,big,red,circle,big,blue,triangle,big,red,circle,big,red,square,big,blue,triangle,small,red,triangle,big,blue,triangle,big,blue,4,medium
-3,square,big,blue,square,big,red,heart,big,blue,square,small,blue,circle,small,red,heart,small,blue,square,small,red,square,small,red,4,medium
+3,square,big,blue,square,big,red,heart,big,blue,square,big,blue,circle,small,red,heart,big,blue,square,small,red,heart,big,red,2,medium
 3,star,big,red,star,big,blue,square,big,red,star,small,red,star,small,blue,square,small,red,square,big,blue,square,big,blue,4,medium
