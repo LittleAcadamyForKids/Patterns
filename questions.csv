@@ -76,7 +76,7 @@ level,cell1_shape,cell1_size,cell1_color,cell2_shape,cell2_size,cell2_color,cell
 3,circle,big,red,triangle,big,blue,circle,small,red,triangle,small,blue,square,small,red,heart,small,blue,star,small,red,triangle,small,blue,1,medium
 3,heart,big,blue,star,big,red,heart,small,blue,star,small,red,circle,small,blue,square,small,red,triangle,small,blue,star,small,red,1,medium
 3,triangle,big,red,triangle,big,blue,star,big,red,triangle,small,red,triangle,small,blue,star,small,red,star,big,blue,star,big,blue,4,medium
-3,heart,big,blue,heart,big,red,circle,big,blue,heart,big,blue,heart,big,red,circle,big,blue,circle,small,red,circle,big,red,3,medium
+3,heart,big,blue,heart,big,red,circle,big,blue,heart,big,blue,heart,big,red,circle,small,blue,circle,big,red,circle,big,red,4,medium
 3,square,big,red,circle,big,blue,square,small,red,circle,small,blue,triangle,small,red,heart,small,blue,star,small,red,circle,small,blue,1,medium
 3,star,big,blue,heart,big,red,star,small,blue,heart,small,red,square,small,blue,circle,small,red,triangle,small,blue,heart,small,red,1,medium
 3,triangle,big,red,square,big,blue,triangle,small,red,square,small,blue,heart,small,red,circle,small,blue,star,small,red,square,small,blue,1,medium
@@ -86,6 +86,6 @@ level,cell1_shape,cell1_size,cell1_color,cell2_shape,cell2_size,cell2_color,cell
 3,circle,small,red,triangle,small,blue,circle,big,red,heart,big,blue,square,big,red,triangle,big,blue,star,big,red,triangle,big,blue,3,medium
 3,heart,small,blue,star,small,red,heart,big,blue,square,big,red,circle,big,blue,star,big,red,triangle,big,blue,star,big,red,3,medium
 3,triangle,small,red,square,small,blue,triangle,big,red,circle,big,blue,heart,big,red,square,big,blue,star,big,red,square,big,blue,3,medium
-3,circle,big,red,circle,big,blue,triangle,big,red,circle,small,red,square,small,blue,triangle,small,red,circle,small,blue,circle,small,blue,4,medium
+3,circle,big,red,circle,big,blue,triangle,big,red,circle,big,red,square,big,blue,triangle,small,red,triangle,big,blue,triangle,big,blue,4,medium
 3,square,big,blue,square,big,red,heart,big,blue,square,small,blue,circle,small,red,heart,small,blue,square,small,red,square,small,red,4,medium
 3,star,big,red,star,big,blue,square,big,red,star,small,red,star,small,blue,square,small,red,square,big,blue,square,big,blue,4,medium
